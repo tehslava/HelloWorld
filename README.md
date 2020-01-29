@@ -1,1 +1,2 @@
-https://stepik.org/course/575/syllabus
+Задачи из курса:
+https://stepik.org/course/575
